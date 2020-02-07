@@ -16,5 +16,7 @@ Step by step making your first twitter bot
 ### How to use
 
 1. Install dependencies by running
-   > pip3 install -r requirements.txt
-2. Run connect.py with arguments -ck and -cs and provide your consumer key and consumer secret from your twitter apps.s
+   `pip3 install -r requirements.txt`
+2. Run connect.py with arguments -ck and -cs and provide your consumer key and consumer secret from your twitter apps.
+3. Or just paste your consumer key and consumer secret to .env file.
+4. Write your method in bot.py.
